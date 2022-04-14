@@ -1,0 +1,1 @@
+Bir dənə DeletedSliders deyə table olacaq və bir dənə trigger yazacaqsız sliders table-dan hər hansısa bir slider silindiyi zaman slider table-dan silinəcək və gedib DeletedSliders table-na düşəcək.

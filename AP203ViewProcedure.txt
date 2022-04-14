@@ -1,0 +1,6 @@
+1) Musics-in name-ni, totalSecond-nu, artist nama-ni, album name-ni göstərən bir view
+yazırsız.
+2) Albumun adını və həmin albumda neçə dənə mahnı var onu göstərən bir view yazırsız.
+3) ListenerCount-u parametr olaraq göndərilən listenerCount-dan böyük olan və Album
+adında parametr olaraq göndərilən search dəyəri olan bütün mahnıların adını,
+listenerCount-nu və Album adını göstərən bir procedure yazın.
